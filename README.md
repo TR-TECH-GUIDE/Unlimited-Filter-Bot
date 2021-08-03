@@ -13,9 +13,9 @@
  
 </p>
 
-[![Our Website](https://trtechguide.wordpress.com)  
+[[Our Website](https://trtechguide.wordpress.com)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TRTECHGUIDE](https://t.me/trtechguide)]
+[[TRTECHGUIDE](https://t.me/trtechguide)]
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
